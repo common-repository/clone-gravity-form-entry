@@ -1,0 +1,10 @@
+.cge-form {
+    display: inline-block;
+}
+.cge-clone-button {
+    border:none;
+    cursor:pointer;
+    background: none;
+    font-weight: 400;
+    color: #0073aa;
+}
